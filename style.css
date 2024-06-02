@@ -1,0 +1,14 @@
+.slide,.header,.odd, code {
+    text-align: right;
+    direction: rtl;
+}
+ul {
+    padding-right: 40px;
+}
+.cap_ido{
+    font: size 0.2em;;
+}
+.ltr{
+    text-align: left;
+    direction: ltr;   
+}
